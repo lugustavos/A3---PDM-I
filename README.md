@@ -1,21 +1,11 @@
-# SkillUpPlus – A3 de PDM I
+# Sample Snack app
 
-A3 - PDM I - Fatec Zona Leste - SkillUpPlus2030+
-Aluno: Luís Gustavo - RA: 1111392411015
-Repositório: https://github.com/lugustavos/A3---PDM-I
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-## Descrição
-Aplicativo fictício para requalificação profissional com navegação híbrida (Stack, Tabs, Drawer),
-persistência de usuário (AsyncStorage), formulários validados e progressos de cursos.
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-## Como rodar
-1. Clonar repositório
-2. `npm install` (ou `yarn`)
-3. `expo start`
-4. Abrir no emulador ou Expo Go.
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-## Estrutura de pastas
-/ src / screens / shared / App.js
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-## Observações
-Feito com React Native + Expo (Snack).
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
